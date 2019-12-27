@@ -17,7 +17,7 @@ fi
 
 echo "******************创建parity目录成功*****************"
 cd /parity
-wget https://releases.parity.io/ethereum/v2.6.2/x86_64-unknown-linux-gnu/parity
+wget https://releases.parity.io/ethereum/v2.6.7/x86_64-unknown-linux-gnu/parity
 echo "******************parity下载成功*****************"
 chmod -R 777 /parity
 wget http://ftp.gnu.org/gnu/gcc/gcc-7.3.0/gcc-7.3.0.tar.gz
